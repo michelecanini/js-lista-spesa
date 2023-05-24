@@ -16,7 +16,7 @@ let shopping_list = [
     'mele',
     'formaggio',
     'pasta',
-    'pizza'
+    'pizza',
 ]
 
 //COSTANTE DEL TAG HTML E DELL'ARRAY

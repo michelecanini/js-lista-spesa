@@ -5,6 +5,7 @@
 ### HTML
     1. crea la struttura html
     2. inserisci un div contenitore con id specifico
+    3. inserisci un titolo lista della spesa
 
 ### JS
     1. prima parte dichiarare le variabili (contenitori)
@@ -27,3 +28,4 @@
         13.1 nuova variabile interna al ciclo con createElement(il)
         13.2 inserimento dell'item all'interno del container (innerText)
         13.3 inserimento della lista con append
+    14. rimuovi i console.log di controllo
