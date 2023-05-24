@@ -23,3 +23,7 @@
     10. creare il ciclo while per lo scorrimento degli elementi dalla lista
     11. dichiarazione ed inizializzazione delle variabili interne al ciclo
     12. inserisco un console.log di controllo
+    13. creazione di un nuovo elemento della lista (variabile item)
+        13.1 nuova variabile interna al ciclo con createElement(il)
+        13.2 inserimento dell'item all'interno del conteiner (innerText)
+        13.3 inserimento della lista con append

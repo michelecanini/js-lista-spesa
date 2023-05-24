@@ -33,7 +33,8 @@ PARTE 2 LOGICA DEL PROGRAMMA
 */
 
 // CREAZIONE DEL CICLO WHILE PER SCORRERE GLI ELEMENTI DELLA LISTA
-//while (counter < shopping_list.length) {
+while (counter < shopping_list.length) {
+    counter++;
 
     // VARIABILE DELL'ITEM
     let item = shopping_list[counter]
@@ -43,4 +44,7 @@ PARTE 2 LOGICA DEL PROGRAMMA
     let container_item = document.createElement('li')
     console.log(container_item)
 
-//}
+     // INSERIMENTO DELL'ITEM ALL'INTERNO DEL CONTAINER
+    container_item.innerText = item;
+    console.log(container_item)
+}
