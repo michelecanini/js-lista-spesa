@@ -6,6 +6,7 @@
 PARTE 1 DICHIARAZIONE DELLE VARIABILI
 */
 
+// VARIABILE DELLA LISTA DELLA SPESA ARRAY
 let shopping_list = [
     'pane',
     'latte',
@@ -17,3 +18,9 @@ let shopping_list = [
     'pasta',
     'pizza'
 ]
+
+console.log(shopping_list)
+
+//COSTANTE DEL TAG HTML E DELL'ARRAY
+const container_list = document.getElementById('shopping_list')
+console.log(container_list)
