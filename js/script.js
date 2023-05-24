@@ -5,3 +5,15 @@
 /* 
 PARTE 1 DICHIARAZIONE DELLE VARIABILI
 */
+
+let shopping_list = [
+    'pane',
+    'latte',
+    'burro',
+    'salsicce',
+    'pomodori',
+    'mele',
+    'formaggio',
+    'pasta',
+    'pizza'
+]
