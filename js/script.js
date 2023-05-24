@@ -24,3 +24,6 @@ console.log(shopping_list)
 //COSTANTE DEL TAG HTML E DELL'ARRAY
 const container_list = document.getElementById('shopping_list')
 console.log(container_list)
+
+// VARIABILE = 0 CONTATORE DELL'ARRAY
+let counter = 0
