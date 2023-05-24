@@ -25,5 +25,5 @@
     12. inserisco un console.log di controllo
     13. creazione di un nuovo elemento della lista (variabile item)
         13.1 nuova variabile interna al ciclo con createElement(il)
-        13.2 inserimento dell'item all'interno del conteiner (innerText)
+        13.2 inserimento dell'item all'interno del container (innerText)
         13.3 inserimento della lista con append

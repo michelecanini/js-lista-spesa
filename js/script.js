@@ -44,7 +44,10 @@ while (counter < shopping_list.length) {
     let container_item = document.createElement('li')
     console.log(container_item)
 
-     // INSERIMENTO DELL'ITEM ALL'INTERNO DEL CONTAINER
+    // INSERIMENTO DELL'ITEM ALL'INTERNO DEL CONTAINER
     container_item.innerText = item;
     console.log(container_item)
+
+    // INSERIMENTO DELLA LISTA
+    container_list.appendChild(container_item)
 }
