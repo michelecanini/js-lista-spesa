@@ -30,9 +30,8 @@ PARTE 2 LOGICA DEL PROGRAMMA
 */
 
 // CREAZIONE DEL CICLO WHILE PER SCORRERE GLI ELEMENTI DELLA LISTA
-while (counter < shopping_list.length - 1) {
-    counter++;
-
+while (counter < shopping_list.length) {
+    
     // VARIABILE DELL'ITEM
     let item = shopping_list[counter]
 
@@ -44,4 +43,7 @@ while (counter < shopping_list.length - 1) {
 
     // INSERIMENTO DELLA LISTA
     container_list.appendChild(container_item)
+    
+    // INCREMENTO DEL CONTATORE
+    counter++;
 }
